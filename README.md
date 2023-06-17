@@ -10,6 +10,9 @@ Navigate to `http://localhost:8081/tasks` to list tasks.
 Navigate to `http://localhost:8081/tasks/{id}` to view a particular task.
 Post to `http://localhost:8081/tasks/add` to add a new task.
 
+## Swagger Url
+http://localhost:8081/swagger-ui.html
+
 
 ## Commands
 
